@@ -18,6 +18,11 @@ html, body {
   user-select: none; /* Standard syntax */
 }
 
+.content-with-arrows {
+  display: grid;
+  // 10% 80% 10%
+}
+
 .title-card {
   height: 80%;
   display: flex;
