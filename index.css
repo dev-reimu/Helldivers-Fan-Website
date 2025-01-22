@@ -72,7 +72,7 @@ a {
   position: absolute;
   top: 0;
   height: 100%;
-  left: 5rem;
+  left: 2rem;
   
   font-family: helldivers-bold;
   font-size: 4rem;
@@ -82,6 +82,11 @@ a {
 
 #arrow-left:hover, #arrow-right:hover {
   background: #ededed;
+}
+
+#helldivers-recruitment-program {
+  width: 100%;
+  height: 100%;
 }
 
 @keyframes flicker {
