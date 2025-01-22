@@ -68,6 +68,19 @@ html, body {
   color: #ededed;
 }
 
+#arrow-left {
+  margin: 0;
+  position: absolute;
+  top: 0;
+  height: 100%;
+  left: 5rem;
+  
+  font-family: helldivers-bold;
+  font-size: 4rem;
+  align-content: center;
+  color: #ededed;
+}
+
 @keyframes flicker {
   0% { opacity: 0.27861; }
   5% { opacity: 0.34769; }
