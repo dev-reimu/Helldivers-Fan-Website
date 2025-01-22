@@ -81,6 +81,10 @@ html, body {
   color: #ededed;
 }
 
+#arrow-right:hover, #arrow-right:hover {
+  background: #ededed;
+}
+
 @keyframes flicker {
   0% { opacity: 0.27861; }
   5% { opacity: 0.34769; }
