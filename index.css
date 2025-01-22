@@ -18,9 +18,8 @@ html, body {
   user-select: none; /* Standard syntax */
 }
 
-.content-with-arrows {
-  display: grid;
-  // 10% 80% 10%
+a {
+  text-decoration: none;
 }
 
 .title-card {
@@ -81,7 +80,7 @@ html, body {
   color: #ededed;
 }
 
-#arrow-right:hover, #arrow-right:hover {
+#arrow-left:hover, #arrow-right:hover {
   background: #ededed;
 }
 
