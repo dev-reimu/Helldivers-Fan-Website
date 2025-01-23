@@ -1,11 +1,11 @@
 @font-face {
   font-family: helldivers-bold;
-  src: url("resources/FS Sinclair Pack/FS Sinclair Bold.otf");
+  src: url("../resources/FS Sinclair Pack/FS Sinclair Bold.otf");
 }
 
 @font-face {
   font-family: helldivers-light;
-  src: url("resources/FS Sinclair Pack/FS Sinclair Light.otf");
+  src: url("../resources/FS Sinclair Pack/FS Sinclair Light.otf");
 }
 
 html, body {
@@ -82,11 +82,6 @@ a {
 
 #arrow-left:hover, #arrow-right:hover {
   background: #ededed;
-}
-
-#helldivers-recruitment-program {
-  width: 100%;
-  height: 100%;
 }
 
 @keyframes flicker {

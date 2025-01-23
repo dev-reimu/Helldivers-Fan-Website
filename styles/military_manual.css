@@ -1,0 +1,18 @@
+p, li, form, table {
+  color: white;
+  font-family: helldivers-light;
+}
+
+h1 {
+  color: white;
+  font-family: helldivers-bold;
+}
+
+hr {
+  color: white;
+}
+
+#info-panel {
+  margin: 10rem 10rem 0 10rem;
+}
+
