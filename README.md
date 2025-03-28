@@ -1,2 +1,1 @@
-# Helldivers Website (unofficial) - Super Earth & The Ministry of Truth
- 
+College project for Web Development course.
